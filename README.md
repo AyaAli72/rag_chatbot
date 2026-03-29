@@ -175,6 +175,3 @@ Developed in collaboration with **Eng. Mostafa Saad**, focusing on:
 
 **Aya Ali**
 Junior Software & AI Engineer
-
-
-نظبط إيه بعد كده؟ 🔥
